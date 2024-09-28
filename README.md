@@ -13,5 +13,3 @@ After losing all lives, the player will not be able to resurrect even with the h
 
 ![4](https://cdn.modrinth.com/data/clkh0q2E/images/2b345dc5dfacf875b2c506f7d2ddc3b2c084b7b1.png)
 
-## **Important**
-Before using the datapack, make sure that all the players with whom you will play are on the server and enter the command /reload, if someone did not have time, you can issue lives /scoreboard players set {player} uhk.health 10 , /scoreboard players set {player} uhk.deth 0
