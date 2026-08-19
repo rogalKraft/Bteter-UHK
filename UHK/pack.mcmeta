@@ -1,5 +1,12 @@
-{ 
-"pack" : { "pack_format" : 15 , "description" : "UHK By: Rogal" } }   
-     
-     
-  
+{
+    "pack": {
+      "pack_format": 81,
+      "supported_formats": {
+        "min_inclusive": 57,
+        "max_inclusive": 81
+      },
+      "min_format": [57, 0],
+      "max_format": [107, 1],
+      "description": "UHK By: Rogal"
+    }
+  }
